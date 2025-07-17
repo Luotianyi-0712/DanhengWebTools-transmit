@@ -82,3 +82,4 @@ node server.js
 ## WS服务器
 默认监听ws://0.0.0.0{{port}}/log
 建立ws连接之后，实时获取控制台日志
+支持onebotV11(大概)
