@@ -1,3 +1,4 @@
+# 项目已跑路！不再更新适配！
 # DanhengWebTools-transmit
 ## 安装
  `
